@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-<img alt="Python" src ="https://img.shields.io/badge/python-darkorange.svg?&style=for-the-badge&logo=로고명&logoColor=dodgerblue"/>
+<img alt="Python" src ="https://img.shields.io/badge/python-ff8c00.svg?&style=for-the-badge&logo=PYTHON&logoColor=black"/>
 
 ## AdapterZ / 어댑터즈
-안녕하세요! 🙋‍♂️ 개발자 입니다. 개발은 Programming이 아닌 Development라는 생각으로, 개발자 뿐 아니라 모든 직군이 함께 해야하는 것 이라고 생각합니다.
+안녕하세요! 🙋‍♂️ 초보 개발자 입니다. 개발은 Programming이 아닌 Development라는 생각으로, 개발자 뿐 아니라 모든 직군이 함께 해야하는 것 이라고 생각합니다.
 항상 이야기하는것을 좋아하고 비난이 아닌 비판은 언제든지 환영합니다. 🥰 모두 행복했으면 좋겠어요!
 <br />
 <br />
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br />
 ## How i work
 저는 항상 재미있게 살고 싶습니다. 사용자와 클라이언트를 동시에 만족 시키는 것 또한 재미있고, 새로운 기술을 배우는 것 또한 재미 있습니다. 어려운 프로덕트를 성공 시키는 경험또한 재미있고 기술을 쉽게 풀어내는 것 또한 재미있습니다 :) 그리고 무조건 약속한 시간을 지키기 위해 노력하며 단순히 약속한 시간을 지키는것이 아닌 최대한 완성도를 높이기 위해서 노력합니다!
-저는 장비에 관심이 많아서 모든 장비가 세팅되어 있는 환경을 좋아합니다 :) 그래서 자택하는걸 좋아하지만 가끔은 카페에서 일하는것도 좋습니다.
+
 <br />
 <br />
 <br />
