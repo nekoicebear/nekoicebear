@@ -16,27 +16,31 @@ Here are some ideas to get you started:
 -->
 
 
-<img alt="Python" src ="https://img.shields.io/badge/python-ff8c00.svg?&style=for-the-badge&logo=PYTHON&logoColor=black"/>
+<img alt="Python" src ="https://img.shields.io/badge/python-1E90FF.svg?&style=for-the-badge&logo=PYTHON&logoColor=FFF0F5"/>
 
-## AdapterZ / 어댑터즈
-안녕하세요! 🙋‍♂️ 초보 개발자이며 웹 디자인과 UI/UX를 희망하는 사람입니다.
+## nekoicebear / YeonJae Park
+안녕하세요! 🙋‍♂️ 초보 개발자이며 빅데이터📊와 웹 디자인🎨분야에 관심을 가지고 학습 중입니다! 현재는 빅데이터 분야를 학습 하고 있으며 <br/> 앞으로는 웹 디자인, UI/UX를 학습하려고 하는 사람입니다.
 <br />
 <br />
 <br />
+
 ## My values
-😎 모든 사람의 의견은 소중합니다<br />
-👌 좋아하는 분야를 더 열심히하고 여러 분야에 도전중...<br />
-🦻 우왕 신기한 인생...!<br />
+🙂 모든 사람의 의견은 소중합니다<br />
+🥇 여러 분야에 도전중 입니다...<br />
+🤾 두려워 말고 실행해 보자 do it!<br />
 <br />
 <br />
 <br />
+
 ## How i work
 최대한 다름 사람의 말을 경청하고 의견을 나누며 실행합니다!
 
 <br />
 <br />
 <br />
+
 ## Skills
+파이썬, R
 <!--
 #### I use it often.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
