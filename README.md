@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br />
 
 ## How i work
-최대한 다름 사람의 말을 경청하고 의견을 나누며 실행합니다!
+최대한 다른 사람의 말을 경청하고 의견을 나누며 실행합니다!
 
 <br />
 <br />
