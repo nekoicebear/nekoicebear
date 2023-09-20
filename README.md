@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <br />
 
 ## Skills
-파이썬, R, HTML, CSS, Javascript(예정)
+파이썬, R
 <!--
 #### I use it often.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
