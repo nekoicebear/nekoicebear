@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img alt="Python" src ="https://img.shields.io/badge/python-1E90FF.svg?&style=for-the-badge&logo=PYTHON&logoColor=FFF0F5"/>
 
 ## nekoicebear / YeonJae Park
-안녕하세요! 🙋‍♂️ 초보 개발자이며 빅데이터📊와 웹 디자인🎨분야에 관심을 가지고 학습 중입니다! 현재는 빅데이터 분야를 학습 하고 있으며 <br/> 앞으로는 웹 디자인, UI/UX를 학습하려고 하는 사람입니다.
+안녕하세요! 🙋‍♂️ 초보 개발자이며 빅데이터📊와 웹 디자인🎨분야에 관심을 가지고 학습 중입니다! AWS 분야를 학습 했으며 <br/> 현재는 웹 디자인, UI/UX를 학습하고 있습니다.
 <br />
 <br />
 <br />
